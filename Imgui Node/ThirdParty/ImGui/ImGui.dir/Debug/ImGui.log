@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/Visual Studio/imgui-node-editor-master/ThirdParty/ImGui/CMakeLists.txt
+  CMake does not need to re-run because D:/Visual Studio/Imgui Node/ThirdParty/ImGui/CMakeFiles/generate.stamp is up-to-date.
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  Generating Code...
+  ImGui.vcxproj -> D:\Visual Studio\Imgui Node\ThirdParty\ImGui\Debug\ImGui.lib

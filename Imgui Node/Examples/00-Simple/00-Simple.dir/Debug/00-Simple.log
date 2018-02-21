@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Visual Studio/imgui-node-editor-master/Examples/00-Simple/CMakeLists.txt
+  CMake does not need to re-run because D:/Visual Studio/Imgui Node/Examples/00-Simple/CMakeFiles/generate.stamp is up-to-date.
+  Simple.cpp
+  00-Simple.vcxproj -> D:\Visual Studio\Imgui Node\Bin\00-Simple_d.exe
+  00-Simple.vcxproj -> D:/Visual Studio/Imgui Node/Bin/00-Simple_d.pdb (Full PDB)

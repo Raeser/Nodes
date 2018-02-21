@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/Visual Studio/imgui-node-editor-master/Examples/Common/Shared/CMakeLists.txt
+  CMake does not need to re-run because D:/Visual Studio/Imgui Node/Examples/Common/Shared/CMakeFiles/generate.stamp is up-to-date.
+  Builders.cpp
+  Drawing.cpp
+  Widgets.cpp
+  Generating Code...
+  Shared.vcxproj -> D:\Visual Studio\Imgui Node\Examples\Common\Shared\Debug\Shared.lib
